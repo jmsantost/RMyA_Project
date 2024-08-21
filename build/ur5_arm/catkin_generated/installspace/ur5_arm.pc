@@ -1,0 +1,8 @@
+prefix=/home/jm/project/install
+
+Name: ur5_arm
+Description: Description of ur5_arm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

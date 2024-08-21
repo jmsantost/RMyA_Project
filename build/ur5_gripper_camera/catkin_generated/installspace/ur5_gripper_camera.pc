@@ -1,0 +1,8 @@
+prefix=/home/jm/project/install
+
+Name: ur5_gripper_camera
+Description: Description of ur5_gripper_camera
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
